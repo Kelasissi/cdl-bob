@@ -1,0 +1,3449 @@
+fileFormatVersion: 2
+guid: 74b6fb95e5c3ea147b7e30e728ec9dde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3022693660460163039
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_0
+  - first:
+      213: -9005459398068685714
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_1
+  - first:
+      213: -2648448750102093263
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_2
+  - first:
+      213: 5055191950419520950
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_3
+  - first:
+      213: 3880509366550882083
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_4
+  - first:
+      213: 2764915365744733227
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_5
+  - first:
+      213: 3884529050478310982
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_6
+  - first:
+      213: -1704123048041133618
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_7
+  - first:
+      213: 7903229557904230666
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_8
+  - first:
+      213: -8341900737250421888
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_9
+  - first:
+      213: -4435458386570302603
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_10
+  - first:
+      213: 482523706585574150
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_11
+  - first:
+      213: -1685148731914157993
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_12
+  - first:
+      213: -8501534921989268989
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_13
+  - first:
+      213: 8329123152368209655
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_14
+  - first:
+      213: 1301068584520614126
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_15
+  - first:
+      213: -5038864701736888008
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_16
+  - first:
+      213: -1464476937948617023
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_17
+  - first:
+      213: 6102252540248214798
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_18
+  - first:
+      213: 3249937851660666362
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_19
+  - first:
+      213: 2519541421873858895
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_20
+  - first:
+      213: -1180285332025321896
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_21
+  - first:
+      213: -187188474084970377
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_22
+  - first:
+      213: -6802782646089960537
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_23
+  - first:
+      213: -5021338967593573381
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_24
+  - first:
+      213: 9179986729519514826
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_25
+  - first:
+      213: -2997380464823489305
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_26
+  - first:
+      213: 5830438061272529478
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_27
+  - first:
+      213: -3154338872496611473
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_28
+  - first:
+      213: -5527262433074442052
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_29
+  - first:
+      213: 8144324844404775676
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_30
+  - first:
+      213: 7473969582374747362
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_31
+  - first:
+      213: -9149354638547590202
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_32
+  - first:
+      213: -8384508791059469769
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_33
+  - first:
+      213: -1378464402741262876
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_34
+  - first:
+      213: -4024740664554447141
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_35
+  - first:
+      213: -4284383442105474799
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_36
+  - first:
+      213: -5306814958540589891
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_37
+  - first:
+      213: -1687174787216447884
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_38
+  - first:
+      213: 702454905725892267
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_39
+  - first:
+      213: 2274795485261146984
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_40
+  - first:
+      213: 2219319859669641248
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_41
+  - first:
+      213: -6718319258373383564
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_42
+  - first:
+      213: -2776506577848547966
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_43
+  - first:
+      213: -45382737636956895
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_44
+  - first:
+      213: -1230364979117058682
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_45
+  - first:
+      213: 238261232124475803
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_46
+  - first:
+      213: -6802499429691740485
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_47
+  - first:
+      213: 7534882711012220314
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_48
+  - first:
+      213: 2383997304254130167
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_49
+  - first:
+      213: -4783583372562507939
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_50
+  - first:
+      213: 7878627079437797155
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_51
+  - first:
+      213: 7796477993764351677
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_52
+  - first:
+      213: -3258831923218916109
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_53
+  - first:
+      213: 3135508987464374264
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_54
+  - first:
+      213: 5216059977071009352
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_55
+  - first:
+      213: -2436343717548934010
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_56
+  - first:
+      213: -3575548324787250163
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_57
+  - first:
+      213: 8872164960129824236
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_58
+  - first:
+      213: 9020241530820141892
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_59
+  - first:
+      213: 5837030444884442125
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_60
+  - first:
+      213: -4468018315979604610
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_61
+  - first:
+      213: 4197719789200886261
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_62
+  - first:
+      213: -9092966789146810501
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_63
+  - first:
+      213: -7504047131885117117
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_64
+  - first:
+      213: 3539599244300712070
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_65
+  - first:
+      213: 6007151103096289011
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_66
+  - first:
+      213: -6699164452634185962
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_67
+  - first:
+      213: -7664666475495751387
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_68
+  - first:
+      213: 7473446608843552364
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_69
+  - first:
+      213: -5135500139087597467
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_70
+  - first:
+      213: -3926365769644352885
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_71
+  - first:
+      213: 5026510938783139926
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_72
+  - first:
+      213: -3196786269378743372
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_73
+  - first:
+      213: -543670083608109727
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_74
+  - first:
+      213: 8038974318674170627
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_75
+  - first:
+      213: -337179196906950734
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_76
+  - first:
+      213: -3765750638847527666
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_77
+  - first:
+      213: -1528750659610926745
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_78
+  - first:
+      213: 7505764027872960717
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_79
+  - first:
+      213: -4923101724392762186
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_80
+  - first:
+      213: 1135605993617770550
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_81
+  - first:
+      213: -1651145622006686627
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_82
+  - first:
+      213: 1397267881062638700
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_83
+  - first:
+      213: 1904752093082791027
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_84
+  - first:
+      213: -6074505301368909309
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_85
+  - first:
+      213: -5957580873624206686
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_86
+  - first:
+      213: -8743346701699217237
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_87
+  - first:
+      213: 5832463324387044863
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_88
+  - first:
+      213: 502253097117114534
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_89
+  - first:
+      213: 7015473698250709045
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_90
+  - first:
+      213: -8233495090196016264
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_91
+  - first:
+      213: 5641907869857333912
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_92
+  - first:
+      213: 7528174381087392685
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_93
+  - first:
+      213: 5469995759527761267
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_94
+  - first:
+      213: -8536742444047022748
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_95
+  - first:
+      213: 1655494902067139963
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_96
+  - first:
+      213: 2581225237832268447
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_97
+  - first:
+      213: -8379275120785894024
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_98
+  - first:
+      213: 3990579519952861920
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_99
+  - first:
+      213: 1699566801533744787
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_100
+  - first:
+      213: 300105244600877837
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_101
+  - first:
+      213: 4068201767608215959
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_102
+  - first:
+      213: -4091809304038107925
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_103
+  - first:
+      213: 6329094661853719171
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_104
+  - first:
+      213: 5706830789517445148
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_105
+  - first:
+      213: 565834406134267892
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_106
+  - first:
+      213: 2235713000852279114
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_107
+  - first:
+      213: 8064372096388311124
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_108
+  - first:
+      213: 6944357539599772496
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_109
+  - first:
+      213: -7568543648181340767
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_110
+  - first:
+      213: -858902841357509033
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_111
+  - first:
+      213: -420869888167067376
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_112
+  - first:
+      213: 2006855476882604188
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_113
+  - first:
+      213: 7997088960567773983
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_114
+  - first:
+      213: 7644172797774187999
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_115
+  - first:
+      213: -8572136482185194393
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_116
+  - first:
+      213: 842535197175956327
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_117
+  - first:
+      213: 2530461824390329721
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_118
+  - first:
+      213: 5537387890578489984
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_119
+  - first:
+      213: -16847989772203435
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_120
+  - first:
+      213: 2620990475643523115
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_121
+  - first:
+      213: -2993976616732505823
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_122
+  - first:
+      213: -2625185261551318067
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_123
+  - first:
+      213: -763647260154706797
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_124
+  - first:
+      213: -6865939620200472528
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_125
+  - first:
+      213: -926703619523105610
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_126
+  - first:
+      213: -986035732130406546
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_127
+  - first:
+      213: 5830951249248088351
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_128
+  - first:
+      213: -3286797384599220395
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_129
+  - first:
+      213: 6946735068547913140
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_130
+  - first:
+      213: -6812024498142986839
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_131
+  - first:
+      213: 3629600815433127025
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_132
+  - first:
+      213: -8320626033751711162
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_133
+  - first:
+      213: -7292443234632276745
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_134
+  - first:
+      213: -700958436048478734
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_135
+  - first:
+      213: -2083063585008469299
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_136
+  - first:
+      213: -7201495385414382425
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_137
+  - first:
+      213: 3413108772074514241
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_138
+  - first:
+      213: -2283391304327957977
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_139
+  - first:
+      213: -6200168091633572911
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_140
+  - first:
+      213: -8119864058851095390
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_141
+  - first:
+      213: 4662661755131060575
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_142
+  - first:
+      213: -2132583500222429559
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_143
+  - first:
+      213: 7291819487417150951
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_144
+  - first:
+      213: 1692967049619538645
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_145
+  - first:
+      213: 2274694838573887063
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_146
+  - first:
+      213: 1718400488501495297
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_147
+  - first:
+      213: 1229505594088012338
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_148
+  - first:
+      213: -7395698565340305522
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_149
+  - first:
+      213: 1924833204100815551
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_150
+  - first:
+      213: -5767189987367024304
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_151
+  - first:
+      213: -1281289824592441376
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_152
+  - first:
+      213: -6897555615235676505
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_153
+  - first:
+      213: -6420928603509110171
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_154
+  - first:
+      213: 4391516627025261664
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_155
+  - first:
+      213: 4200991599191347584
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_156
+  - first:
+      213: -5962653686741458972
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_157
+  - first:
+      213: -7632251811915731669
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_158
+  - first:
+      213: 4818848948347081467
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_159
+  - first:
+      213: 7999603391581848413
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_160
+  - first:
+      213: 3125004043469087015
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_161
+  - first:
+      213: -5984489550952621454
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_162
+  - first:
+      213: 8620539808231800756
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_163
+  - first:
+      213: -6722818528587076997
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_164
+  - first:
+      213: 4727401311182961880
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_165
+  - first:
+      213: 6775418010472190823
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_166
+  - first:
+      213: 1405982702439360388
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_167
+  - first:
+      213: -2283488499942834424
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_168
+  - first:
+      213: -4056422884532933107
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_169
+  - first:
+      213: 7284459443780364271
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_170
+  - first:
+      213: 2194752864927723023
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_171
+  - first:
+      213: 1100919847288439175
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_172
+  - first:
+      213: -6113862594345975667
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_173
+  - first:
+      213: 5526309139729104341
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_174
+  - first:
+      213: 2201528095457214775
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_175
+  - first:
+      213: -3279610929697555196
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_176
+  - first:
+      213: -294800189038749636
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_177
+  - first:
+      213: 6475238075195077445
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_178
+  - first:
+      213: 7677974491751805119
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_179
+  - first:
+      213: -2982187360214050067
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_180
+  - first:
+      213: 6035282871029992827
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_181
+  - first:
+      213: 2339499267818900543
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_182
+  - first:
+      213: -9027874711760109710
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_183
+  - first:
+      213: 1492563772400360538
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_184
+  - first:
+      213: -2907785903987299662
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_185
+  - first:
+      213: 824965496235910959
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_186
+  - first:
+      213: 8822984829161303354
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_187
+  - first:
+      213: 8185772724649289304
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_188
+  - first:
+      213: -5526551485866145373
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_189
+  - first:
+      213: 247878977732604345
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_190
+  - first:
+      213: 4069756998310738081
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_191
+  - first:
+      213: -3254788449675382788
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_192
+  - first:
+      213: 7114046889998951914
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_193
+  - first:
+      213: 7349645801886285644
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_194
+  - first:
+      213: 6650614688497115989
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_195
+  - first:
+      213: -5764560993908234024
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_196
+  - first:
+      213: 1954202700211465672
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_197
+  - first:
+      213: -5793869118466987444
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_198
+  - first:
+      213: -1612502954038817178
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_199
+  - first:
+      213: 1002301505428664075
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_200
+  - first:
+      213: 5367483895495667700
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_201
+  - first:
+      213: -8905207292466044793
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_202
+  - first:
+      213: 8837363064103103507
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_203
+  - first:
+      213: 2257182258501497805
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_204
+  - first:
+      213: -5706359883908141648
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_205
+  - first:
+      213: -6461242861257235199
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_206
+  - first:
+      213: -4149764680387764023
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_207
+  - first:
+      213: -4899608437215288839
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_208
+  - first:
+      213: 861232296481489922
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_209
+  - first:
+      213: -4494983687272424476
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_210
+  - first:
+      213: -2558713283812050560
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_211
+  - first:
+      213: -5685074098398269309
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_212
+  - first:
+      213: 5868082516767834514
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_213
+  - first:
+      213: -5279720140761157853
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_214
+  - first:
+      213: -6130158727879281997
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_215
+  - first:
+      213: -5665676516880099682
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_216
+  - first:
+      213: -5122172545584172727
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_217
+  - first:
+      213: 1620559192912809320
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_218
+  - first:
+      213: 6791878886809503941
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_219
+  - first:
+      213: 1340455451264180113
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_220
+  - first:
+      213: -4371577740996207478
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_221
+  - first:
+      213: -3623022952774887912
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_222
+  - first:
+      213: -643885518266735168
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_223
+  - first:
+      213: 4229978263630892346
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_224
+  - first:
+      213: 8068851397536608280
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_225
+  - first:
+      213: -1951446101855687709
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_226
+  - first:
+      213: 8474034807290706223
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_227
+  - first:
+      213: 6902501032247119610
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_228
+  - first:
+      213: -1927651697277345379
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_229
+  - first:
+      213: -9197140954765525647
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_230
+  - first:
+      213: -2504484158166680796
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_231
+  - first:
+      213: 3658953805011195805
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_233
+  - first:
+      213: 3769665440247401863
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_234
+  - first:
+      213: 4644173141298577226
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_235
+  - first:
+      213: -2293724119941138278
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_236
+  - first:
+      213: 3648278217001600947
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_237
+  - first:
+      213: 7852081066528681210
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_238
+  - first:
+      213: 7673528059275704115
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_239
+  - first:
+      213: 5837360678474957207
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_240
+  - first:
+      213: 8727231752375437610
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_241
+  - first:
+      213: -6431526999928455266
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_242
+  - first:
+      213: 8959434019653706207
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_243
+  - first:
+      213: -8749060470020154097
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_244
+  - first:
+      213: -861449671753120428
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_245
+  - first:
+      213: 5727291962195418063
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_246
+  - first:
+      213: 709485346678135122
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_247
+  - first:
+      213: 7142232087398928410
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_248
+  - first:
+      213: 4653741016783812538
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_249
+  - first:
+      213: 7240285821430669610
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_250
+  - first:
+      213: 5834839352205287787
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_251
+  - first:
+      213: -7578017486535454037
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_252
+  - first:
+      213: 2262867329853400465
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_253
+  - first:
+      213: -5542114409032669318
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_254
+  - first:
+      213: -2646899844250576513
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_255
+  - first:
+      213: -4136029549035379728
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_256
+  - first:
+      213: 2929212542001398748
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_257
+  - first:
+      213: 8462116131679312594
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_258
+  - first:
+      213: 2972612442503878379
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_259
+  - first:
+      213: 9219934437918260653
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_260
+  - first:
+      213: 2949872868231437269
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_261
+  - first:
+      213: -1023844430583559417
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_262
+  - first:
+      213: -7187655528401527760
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_263
+  - first:
+      213: -611609463069563883
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_264
+  - first:
+      213: 8858862452503736045
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_265
+  - first:
+      213: -1335786375265214944
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_266
+  - first:
+      213: -1434514480199832765
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_267
+  - first:
+      213: -5688572627004050989
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_268
+  - first:
+      213: -4692294430673111725
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_269
+  - first:
+      213: -672681689095377155
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_270
+  - first:
+      213: -1354977612513935680
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_271
+  - first:
+      213: 6070973800672792386
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_272
+  - first:
+      213: -334457056180116016
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_273
+  - first:
+      213: 582731552642985232
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_274
+  - first:
+      213: 1451666149027237589
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_275
+  - first:
+      213: -9156877735063643445
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_276
+  - first:
+      213: -4856508691896487177
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_277
+  - first:
+      213: 6371860294618735966
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_278
+  - first:
+      213: -5019472231760969497
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_279
+  - first:
+      213: -8564792623096602150
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_280
+  - first:
+      213: -3540604902935973514
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_281
+  - first:
+      213: -5248134152889233875
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_282
+  - first:
+      213: 3540527808974984250
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_283
+  - first:
+      213: -4944965003322624597
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_284
+  - first:
+      213: 1401893353486314175
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_285
+  - first:
+      213: -8599988383798772747
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_286
+  - first:
+      213: 1149884226945897069
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_287
+  - first:
+      213: 6625492963666855971
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_288
+  - first:
+      213: -4449515746528264652
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_289
+  - first:
+      213: -1398964397824552930
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_290
+  - first:
+      213: 4606890727476398078
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_291
+  - first:
+      213: 3519018772563804199
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_292
+  - first:
+      213: 5572626844057476642
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_293
+  - first:
+      213: 2476621438905112737
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_294
+  - first:
+      213: 3915332134532030675
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_295
+  - first:
+      213: 7210398501355155402
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_296
+  - first:
+      213: 5981136722631726760
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_297
+  - first:
+      213: 6423730674496634996
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_298
+  - first:
+      213: -5843431768880340402
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_299
+  - first:
+      213: -2381326252706268045
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_300
+  - first:
+      213: 1706587607216291889
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_301
+  - first:
+      213: 8358300501031464384
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_302
+  - first:
+      213: 9053364390126148525
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_303
+  - first:
+      213: -4531201038938672569
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_304
+  - first:
+      213: -1207654719842513864
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_305
+  - first:
+      213: 6261088445512615110
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_306
+  - first:
+      213: -9081786678179147382
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_307
+  - first:
+      213: 231165964513901729
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_308
+  - first:
+      213: -5536744095770001600
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_309
+  - first:
+      213: 2003599534751453958
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_310
+  - first:
+      213: -7877345194453472979
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_311
+  - first:
+      213: 152847417565998560
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_312
+  - first:
+      213: 5763730847587521185
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_313
+  - first:
+      213: -2889436234131529754
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_314
+  - first:
+      213: -7234475177367122163
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_315
+  - first:
+      213: 3516120648550081874
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_316
+  - first:
+      213: -4131718160372307452
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_317
+  - first:
+      213: 82536097275768632
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_318
+  - first:
+      213: -4395854374999179353
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_319
+  - first:
+      213: -2693920415678719526
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_346
+  - first:
+      213: 4847210844289913854
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_347
+  - first:
+      213: 105025967682988667
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_348
+  - first:
+      213: -1436502711237253940
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_349
+  - first:
+      213: -5166972125028829647
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_350
+  - first:
+      213: 5906120983925263967
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_351
+  - first:
+      213: -4040828336196834633
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_352
+  - first:
+      213: -6366890965576704460
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_353
+  - first:
+      213: -409752273738625981
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_354
+  - first:
+      213: 103904198964747193
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_355
+  - first:
+      213: -6095565459783066191
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_356
+  - first:
+      213: -321250054482897318
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_357
+  - first:
+      213: -6175045230210560745
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_358
+  - first:
+      213: -8193016359229945556
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_359
+  - first:
+      213: -2954526472024936554
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_360
+  - first:
+      213: -4169354497772404845
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_361
+  - first:
+      213: -734773481046903637
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_362
+  - first:
+      213: -3290481418540631981
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_363
+  - first:
+      213: -1579227602850146902
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_364
+  - first:
+      213: 3760688250314792160
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_365
+  - first:
+      213: -3378899618150055838
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_366
+  - first:
+      213: 4213475489195026422
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_367
+  - first:
+      213: -6132261416322623690
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_368
+  - first:
+      213: -4478118397082482735
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_369
+  - first:
+      213: 6244763139805779209
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_370
+  - first:
+      213: 2366264006509196055
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_371
+  - first:
+      213: -6282387970739716695
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_372
+  - first:
+      213: 7795256742296433391
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_373
+  - first:
+      213: 4441076915087269019
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_374
+  - first:
+      213: -5859059362886096993
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_375
+  - first:
+      213: -1802168589141603529
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_376
+  - first:
+      213: 1545549478561909005
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_377
+  - first:
+      213: -8457223368019067415
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_378
+  - first:
+      213: 3007629404074328855
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_379
+  - first:
+      213: -410491250683310829
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_380
+  - first:
+      213: -5555580053106070762
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_381
+  - first:
+      213: 5302360686414965774
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_382
+  - first:
+      213: 2887749342875088452
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_383
+  - first:
+      213: -2837349594841011539
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_384
+  - first:
+      213: -787725269777889504
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_385
+  - first:
+      213: -4738841303520498986
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_386
+  - first:
+      213: 2186498971688347979
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_387
+  - first:
+      213: -7887517767879609447
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_388
+  - first:
+      213: -2219118741878877752
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_389
+  - first:
+      213: 4379267382265939252
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_390
+  - first:
+      213: -2001780858849037614
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_391
+  - first:
+      213: -7653534585936711051
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_392
+  - first:
+      213: 5109921654780678834
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_393
+  - first:
+      213: 5012887420714674790
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_394
+  - first:
+      213: -2091859606890587446
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_395
+  - first:
+      213: 1388256521399432994
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_396
+  - first:
+      213: 626799163989851656
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_397
+  - first:
+      213: 169958349409646848
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_398
+  - first:
+      213: -8712911493651628900
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_399
+  - first:
+      213: 2027383467512210863
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_400
+  - first:
+      213: 5757445867927981646
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_401
+  - first:
+      213: 1874501423617980564
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_402
+  - first:
+      213: -3087389835887224191
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_403
+  - first:
+      213: 7879858246293947332
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_404
+  - first:
+      213: -6055773459784999945
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_405
+  - first:
+      213: -6399941649815561699
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_406
+  - first:
+      213: 6578252754849144696
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_407
+  - first:
+      213: 7797487232805705378
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_408
+  - first:
+      213: -2668664994075998076
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_409
+  - first:
+      213: -5689589511022545878
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_410
+  - first:
+      213: 4261720115085216524
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_411
+  - first:
+      213: 6115524115152463823
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_412
+  - first:
+      213: 3210414530263989952
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_413
+  - first:
+      213: 2143834588107233332
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_414
+  - first:
+      213: 3960642235844593807
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_415
+  - first:
+      213: -4044226966391139014
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_416
+  - first:
+      213: -3498448951357691649
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_417
+  - first:
+      213: 7184115238446901493
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_418
+  - first:
+      213: -2838679688041610501
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_419
+  - first:
+      213: 9099430053225132765
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_420
+  - first:
+      213: 1661030810791624078
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_421
+  - first:
+      213: -4824398995083833252
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_422
+  - first:
+      213: 3167187104824675237
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_423
+  - first:
+      213: 1330872611835666367
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_424
+  - first:
+      213: -1017387876049061534
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_425
+  - first:
+      213: -3755937259628588991
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_426
+  - first:
+      213: 4859218717434598905
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_427
+  - first:
+      213: -419934360883670743
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_428
+  - first:
+      213: 4927675169650801923
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_429
+  - first:
+      213: -7143876805439544475
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_430
+  - first:
+      213: 7029354225991166607
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_431
+  - first:
+      213: 1262189861818775106
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_432
+  - first:
+      213: -7200571089343568501
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_433
+  - first:
+      213: 7157987320277362201
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_434
+  - first:
+      213: 5079142948362405753
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_435
+  - first:
+      213: -1244132031923292046
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_436
+  - first:
+      213: -541448399634970022
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_437
+  - first:
+      213: 2569928078156677162
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_438
+  - first:
+      213: 7382155514529966861
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_439
+  - first:
+      213: 5052076775785021398
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_440
+  - first:
+      213: 4839680876753368818
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_441
+  - first:
+      213: 1896007348118999897
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_442
+  - first:
+      213: -1873439929664692107
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_443
+  - first:
+      213: -9144817954598239006
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_444
+  - first:
+      213: -1828347019303176371
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_445
+  - first:
+      213: 1827474321060545241
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_446
+  - first:
+      213: -6806117903417935400
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_447
+  - first:
+      213: 9074262441146271325
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_448
+  - first:
+      213: 527796432666528070
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_449
+  - first:
+      213: -7047587203635552586
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_450
+  - first:
+      213: 1145796623463489654
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_451
+  - first:
+      213: 8802012806452908230
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_452
+  - first:
+      213: 323442605416381976
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_453
+  - first:
+      213: -5486323613480458143
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_454
+  - first:
+      213: -1815070626911536767
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_455
+  - first:
+      213: -4982025343392798721
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_456
+  - first:
+      213: 4836316200232041493
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_457
+  - first:
+      213: 7627660108282836091
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_458
+  - first:
+      213: -4204806292377502533
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_459
+  - first:
+      213: -1424134716854536967
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_460
+  - first:
+      213: 9139654344303786600
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_461
+  - first:
+      213: -3054332785957099569
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_462
+  - first:
+      213: 6162903815900322882
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_463
+  - first:
+      213: 8175901105148578059
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_464
+  - first:
+      213: -8496475243705976221
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_465
+  - first:
+      213: -1209954731111634463
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_466
+  - first:
+      213: -7401503860422283024
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_467
+  - first:
+      213: 6809548138637114054
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_468
+  - first:
+      213: -1995913612759429474
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_469
+  - first:
+      213: 8363654641689615711
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_470
+  - first:
+      213: 6393722291235590845
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_471
+  - first:
+      213: 5074964021979299511
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_472
+  - first:
+      213: -8350475822880265430
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_473
+  - first:
+      213: 3746948280921986554
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_474
+  - first:
+      213: 8665198514159382994
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_475
+  - first:
+      213: 55395143049802826
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_476
+  - first:
+      213: 3348630587438093705
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_477
+  - first:
+      213: -7748674806099695977
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_478
+  - first:
+      213: 8460073297309083583
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_479
+  - first:
+      213: 102825887392244500
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_480
+  - first:
+      213: 8986235980778676789
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_481
+  - first:
+      213: -4097493830700654937
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_482
+  - first:
+      213: -1899186737045038103
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_483
+  - first:
+      213: -8293279078554866420
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_484
+  - first:
+      213: -8158748630813093148
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_485
+  - first:
+      213: -4322854537676405571
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_486
+  - first:
+      213: 6298824852729246173
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_487
+  - first:
+      213: 5349337824025188038
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_488
+  - first:
+      213: -6196354017704839635
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_489
+  - first:
+      213: -1377937243438365874
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_490
+  - first:
+      213: 7605900044917457730
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_491
+  - first:
+      213: -424817445612756394
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_492
+  - first:
+      213: 5805184213160087510
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_493
+  - first:
+      213: -5270181482258284240
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_494
+  - first:
+      213: -7325937262632685117
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_495
+  - first:
+      213: 5847534954372055394
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_496
+  - first:
+      213: -1778808995442369041
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_497
+  - first:
+      213: -4038659112313222647
+    second: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_232
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 563
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177c985baf9de6419fbe4b468c82d8c
+      internalID: 3022693660460163039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 563
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba54430b95ac0b418d50d1785740abb
+      internalID: -9005459398068685714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 563
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650a853dee6ca5458333e24775cf424
+      internalID: -2648448750102093263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_3
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 559
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d1c41ba126d2a4ab42f16ec6ac3e96
+      internalID: 5055191950419520950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_4
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 558
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7750e5de700205148a4cedbb323789a9
+      internalID: 3880509366550882083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 557
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6217ea800a6446bdc8bfba7de8dbf
+      internalID: 2764915365744733227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 536
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a1f87514ef06545bd1f785e2e525e6
+      internalID: 3884529050478310982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 536
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b9cf98ec3b914292c52f187ab2c0d
+      internalID: -1704123048041133618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 536
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a5e701dc581c7478623df8540f000b
+      internalID: 7903229557904230666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 525
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73db77db38d204547a3bd6891f633219
+      internalID: -8341900737250421888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 525
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f669809bd80b4bbbd466a458d9d5a
+      internalID: -4435458386570302603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 514
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e487a2a221434eaf0d0e113824704
+      internalID: 482523706585574150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 514
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338289331de78a43896fc742731a139
+      internalID: -1685148731914157993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_13
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 514
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f47369760aaafa4f8bd9615136d630b
+      internalID: -8501534921989268989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28459830a8d1b7740b38a1686d7f7b5d
+      internalID: 8329123152368209655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 481
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935f306b6aee6024983f68fc0e041a55
+      internalID: 1301068584520614126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 481
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6b8dc62cb76a42ba4c8cbb9b97ae8
+      internalID: -5038864701736888008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 481
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b4d750826156498752f97dbb4bbd3
+      internalID: -1464476937948617023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 481
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23788d3caaaae064b9e8d3560c0fc224
+      internalID: 6102252540248214798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 481
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6b2e58b48b1a468297c7b1fc8bd15
+      internalID: 3249937851660666362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 481
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2b5e1dc684fe4d90cac98a059b34a
+      internalID: 2519541421873858895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 481
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59746e4ba23308e4b96b4d36a254ac61
+      internalID: -1180285332025321896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 481
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27a6f027e83b1b4b9b8226a9bc14a20
+      internalID: -187188474084970377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 481
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858502e1a8d704478a6054a58de5201
+      internalID: -6802782646089960537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fad0b3f80f54c47b3ac665a14fc618
+      internalID: -5021338967593573381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc72d5e07db1f7143bc30c15dba19ca2
+      internalID: 9179986729519514826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cf8d3c3591bf48a2218dd466d0478
+      internalID: -2997380464823489305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a53e3fb0f84864f8f645c003462402
+      internalID: 5830438061272529478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e84670dd4850b4cb5fc5af207dc52d
+      internalID: -3154338872496611473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d194e04b3cd66448aedb6976eb0e68d
+      internalID: -5527262433074442052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75316d3dd35446049b5487e0ca80f49d
+      internalID: 8144324844404775676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2039fbfda05214498613ddcaa11771d
+      internalID: 7473969582374747362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020a03186a3de6944955f07fd41fa569
+      internalID: -9149354638547590202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_33
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa19dc7a55ef24788c73e8cb6628f2
+      internalID: -8384508791059469769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 451
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f8317477af56042948860042f2313b
+      internalID: -1378464402741262876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_35
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 452
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d370eaea9801edc48870ca272cbd66af
+      internalID: -4024740664554447141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 420
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ef1635b4b0b045a79c110f8ce590b
+      internalID: -4284383442105474799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 420
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156cf921fc7b1cc458210a0c8ff8db33
+      internalID: -5306814958540589891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 420
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c341b22efe0794cb4dbdeac7eb1441
+      internalID: -1687174787216447884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 420
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef2ccc2a33004e44b5a85db7d4cb8ec
+      internalID: 702454905725892267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be715f8ebe3284398c8d263a8f1d06
+      internalID: 2274795485261146984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 420
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0d031f3e1a1d4fbe93df80869a6f9
+      internalID: 2219319859669641248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a98e582afd57c409674417efec8f39
+      internalID: -6718319258373383564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 386
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab3249482bf5f42a91948386bfe465
+      internalID: -2776506577848547966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 352
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae7a637c75038042bdaabc2d0519720
+      internalID: -45382737636956895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea4c2f0feb06b4f9bdf8821be482cc
+      internalID: -1230364979117058682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 319
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0602d87aa0a14baf1d0928560cf42
+      internalID: 238261232124475803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf95fefcf9eab6458b63739550aad7b
+      internalID: -6802499429691740485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 319
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eab7729ef0ca64eb7b4d0ea07a8c2a
+      internalID: 7534882711012220314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 317
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14542d0d392d65242bafc37d1271a7cf
+      internalID: 2383997304254130167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 317
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0017ce7c525c804b8052c4d2b3ffc81
+      internalID: -4783583372562507939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 286
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b7b926a8fdb1e4d890379f2f8d107c
+      internalID: 7878627079437797155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 285
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de94f8be4c4e043b4d1290d848b364
+      internalID: 7796477993764351677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 285
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20070f474930fac4f97f53b724d53317
+      internalID: -3258831923218916109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 285
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d28f9b35fe5e142926754abbc59d82
+      internalID: 3135508987464374264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 285
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca183f70414ddd4883f8fcb6d16f81e
+      internalID: 5216059977071009352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 285
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ebf5c26341d645bf4447394d1f54f
+      internalID: -2436343717548934010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 285
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb243a292f10b2745a364a110dcd15e4
+      internalID: -3575548324787250163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 285
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9fba57949163f4da81766640e192ac
+      internalID: 8872164960129824236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 285
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60267a013ee94fb439b0111083a65919
+      internalID: 9020241530820141892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 285
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab4be4c9555a442bacadd94fd459ce
+      internalID: 5837030444884442125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 285
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abfe0512243dc4cb19637f77b40a19
+      internalID: -4468018315979604610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_62
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 285
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a28aa42ebb240d4ca60cba563eeda30
+      internalID: 4197719789200886261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 285
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899536544b34c341b9496047040c92c
+      internalID: -9092966789146810501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_64
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 286
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17dd7a3928414b4aaab71015d6c7b0b
+      internalID: -7504047131885117117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c21ba3ab7517cc4e873b99c92c27a49
+      internalID: 3539599244300712070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_66
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 240
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783b990a95947545aed3232e5615167
+      internalID: 6007151103096289011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 189
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc2b97fff2e934dabd847b7cf033f6
+      internalID: -6699164452634185962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 189
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc6405704c263247ba60415a5559377
+      internalID: -7664666475495751387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_69
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 189
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b913109fa7fb478e6ba13200b849c
+      internalID: 7473446608843552364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 189
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d5db61e02d4c24fb0c7d6999d5eb79
+      internalID: -5135500139087597467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 189
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5885ce369cd6b4abc6e9ff03a87dcd
+      internalID: -3926365769644352885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_72
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 189
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa5a108faa5022409bc163377644d19
+      internalID: 5026510938783139926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc2c08d2fb3cb4d89ccdf9313ee153
+      internalID: -3196786269378743372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_74
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 148
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7626619ec4e7c54b86d6fe485ecaa1f
+      internalID: -543670083608109727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 148
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418ebd880bc2d140bda09937791eae1
+      internalID: 8038974318674170627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 148
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f021609f07a24ba5e4d9030719b38
+      internalID: -337179196906950734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_77
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 148
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bcf7ed0c58a1f479ef8f7a61f12fea
+      internalID: -3765750638847527666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_78
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 148
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c849ab0777adbd46b0d1f48cf3fd54e
+      internalID: -1528750659610926745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df42b11ccb9f1394d9e762d3206f73ab
+      internalID: 7505764027872960717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 100
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1ce5db243c5b4ea8d2582cd7121d3
+      internalID: -4923101724392762186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 100
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba0e5c12773dab45b17747035e851b3
+      internalID: 1135605993617770550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 100
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca242ced22232444b13a32523aed615
+      internalID: -1651145622006686627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 100
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06942b107fa7641bd886365cd7f347
+      internalID: 1397267881062638700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_84
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 100
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e958f5b1fff8cc647b475a6bd81b703d
+      internalID: 1904752093082791027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 53
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14996a557ff3c4b988ccf64cd6ce1a
+      internalID: -6074505301368909309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_86
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 53
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b7ad547c9801e4ab47ed4c6dd3da69
+      internalID: -5957580873624206686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 53
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71214708e346ea646bf1702f4f7d4257
+      internalID: -8743346701699217237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_88
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 53
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da064c395552bac428619d9e2efd8a25
+      internalID: 5832463324387044863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c31b9a4d1f2704d9c823db45a68148
+      internalID: 502253097117114534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_90
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 38
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533f6ba33e80f194dbec1bae341f4e97
+      internalID: 7015473698250709045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - James Pond 2 Codename Robocod - James Pond_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d723f91a76ed3a44ac62d4832a3f586
+      internalID: -8233495090196016264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea7fa5c4cf7131043800b7a1f6580600
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

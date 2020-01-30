@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/menu.old.unity
+    guid: 2d20a409d1e9bcc4a8d7e937901c4b6c
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 00.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 01.unity
+    guid: be9f3a1df2243ee41a78dd1c9524bb00
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 02.unity
+    guid: f601351f7e5078747804b83ab51e50b9
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 03.unity
+    guid: 4fae22a9c6707f745bcfb87bfa6741a8
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 04.unity
+    guid: 9da3fd23020061745a8d3c7b28681b82
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 05.unity
+    guid: e527b0098446f7345b705fdaab3cb9da
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 06.unity
+    guid: 474257e099068b84ca20c97fabff228b
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 07.unity
+    guid: 20c4595b389819642bcaecc43ec68ba3
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 7b.unity
+    guid: 2a385f1f209418a4fb4a4a21acfb07d3
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 08.unity
+    guid: 1c48c5f1ef471194fb5784f3905da560
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 09.unity
+    guid: 8ce8ce35c9d0c9c45bbb07be83a36aef
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 10.unity
+    guid: 4f23749fcb04fc7408f0564c15f0681b
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 11.unity
+    guid: dd57967fd3bf65a489e8ff5bb220adf4
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 12.unity
+    guid: 1d734102cd7ab644dabc7b94a79930b1
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 13.unity
+    guid: 06a4c6ad25c928d4191995482e35c1cc
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 14.unity
+    guid: 26be6c70330c0294caf9901e8878d006
+  - enabled: 1
+    path: Assets/Scenes/Aquarium 15.unity
+    guid: b0a0897aa674de24b9d75b9eb8d10b5a
+  m_configObjects: {}

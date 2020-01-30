@@ -1,0 +1,1799 @@
+fileFormatVersion: 2
+guid: c7493f7af2d8b8d4890f36139d5349f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2557252639632574780
+    second: JELLYFISHDUQ_0
+  - first:
+      213: 2386719813411959302
+    second: JELLYFISHDUQ_1
+  - first:
+      213: -6622738503557659844
+    second: JELLYFISHDUQ_2
+  - first:
+      213: -7073484344508604071
+    second: JELLYFISHDUQ_3
+  - first:
+      213: 3597613701255005902
+    second: JELLYFISHDUQ_4
+  - first:
+      213: 1798726549022805836
+    second: JELLYFISHDUQ_5
+  - first:
+      213: -7699846973004987543
+    second: JELLYFISHDUQ_6
+  - first:
+      213: 2598103847411318585
+    second: JELLYFISHDUQ_7
+  - first:
+      213: 7291273411459003088
+    second: JELLYFISHDUQ_8
+  - first:
+      213: 4468409683363456759
+    second: JELLYFISHDUQ_9
+  - first:
+      213: -4761082686124359575
+    second: JELLYFISHDUQ_10
+  - first:
+      213: -4399467453391554630
+    second: JELLYFISHDUQ_11
+  - first:
+      213: 2113697914193402193
+    second: JELLYFISHDUQ_12
+  - first:
+      213: 5380529857841676957
+    second: JELLYFISHDUQ_13
+  - first:
+      213: 7197583388186318088
+    second: JELLYFISHDUQ_14
+  - first:
+      213: -8903401713669198728
+    second: JELLYFISHDUQ_15
+  - first:
+      213: -4463682017783335732
+    second: JELLYFISHDUQ_16
+  - first:
+      213: -8590086292300059425
+    second: JELLYFISHDUQ_17
+  - first:
+      213: 5122779651466394826
+    second: JELLYFISHDUQ_18
+  - first:
+      213: 5425852473478853086
+    second: JELLYFISHDUQ_19
+  - first:
+      213: -9202113624532404300
+    second: JELLYFISHDUQ_20
+  - first:
+      213: 5704271449744331862
+    second: JELLYFISHDUQ_21
+  - first:
+      213: -2964662358899064714
+    second: JELLYFISHDUQ_22
+  - first:
+      213: -3293431063506632328
+    second: JELLYFISHDUQ_23
+  - first:
+      213: 3013848137130048075
+    second: JELLYFISHDUQ_24
+  - first:
+      213: -865989137993153651
+    second: JELLYFISHDUQ_25
+  - first:
+      213: -1045104907034081616
+    second: JELLYFISHDUQ_26
+  - first:
+      213: -9213412332168274519
+    second: JELLYFISHDUQ_27
+  - first:
+      213: -5134128724430441693
+    second: JELLYFISHDUQ_28
+  - first:
+      213: 7533492741438192605
+    second: JELLYFISHDUQ_29
+  - first:
+      213: 3279672382588685646
+    second: JELLYFISHDUQ_30
+  - first:
+      213: -3492442508833623793
+    second: JELLYFISHDUQ_31
+  - first:
+      213: -776742364761917812
+    second: JELLYFISHDUQ_32
+  - first:
+      213: -6681079346885732767
+    second: JELLYFISHDUQ_33
+  - first:
+      213: -8804603143979602974
+    second: JELLYFISHDUQ_34
+  - first:
+      213: 4571520893317226708
+    second: JELLYFISHDUQ_35
+  - first:
+      213: -4820957113073215346
+    second: JELLYFISHDUQ_36
+  - first:
+      213: 3297853198369244742
+    second: JELLYFISHDUQ_37
+  - first:
+      213: -8373137076302730562
+    second: JELLYFISHDUQ_38
+  - first:
+      213: 2313271656021641115
+    second: JELLYFISHDUQ_39
+  - first:
+      213: 6772878133294610772
+    second: JELLYFISHDUQ_40
+  - first:
+      213: -6698871723198487971
+    second: JELLYFISHDUQ_41
+  - first:
+      213: -39297430062317369
+    second: JELLYFISHDUQ_42
+  - first:
+      213: 4672999405280485400
+    second: JELLYFISHDUQ_43
+  - first:
+      213: 7378306683565775718
+    second: JELLYFISHDUQ_44
+  - first:
+      213: -3115965524166759549
+    second: JELLYFISHDUQ_45
+  - first:
+      213: 5942508511151007686
+    second: JELLYFISHDUQ_46
+  - first:
+      213: -4734868169932174157
+    second: JELLYFISHDUQ_47
+  - first:
+      213: -6813643902804866188
+    second: JELLYFISHDUQ_48
+  - first:
+      213: 7643354861306898019
+    second: JELLYFISHDUQ_49
+  - first:
+      213: 8905879533450269283
+    second: JELLYFISHDUQ_50
+  - first:
+      213: -671312299052526923
+    second: JELLYFISHDUQ_51
+  - first:
+      213: -8535671201604554815
+    second: JELLYFISHDUQ_52
+  - first:
+      213: -7632243355506728861
+    second: JELLYFISHDUQ_53
+  - first:
+      213: -8809684973865582989
+    second: JELLYFISHDUQ_54
+  - first:
+      213: -6205475835982290606
+    second: JELLYFISHDUQ_55
+  - first:
+      213: 4418704120374795455
+    second: JELLYFISHDUQ_56
+  - first:
+      213: 8969955606100215616
+    second: JELLYFISHDUQ_57
+  - first:
+      213: -3886546900108544218
+    second: JELLYFISHDUQ_58
+  - first:
+      213: -4125876248091358058
+    second: JELLYFISHDUQ_59
+  - first:
+      213: 4953262060000900250
+    second: JELLYFISHDUQ_60
+  - first:
+      213: -1705857282626524030
+    second: JELLYFISHDUQ_61
+  - first:
+      213: -3615561843677889397
+    second: JELLYFISHDUQ_62
+  - first:
+      213: -4788952566931722500
+    second: JELLYFISHDUQ_63
+  - first:
+      213: -2029091921552601578
+    second: JELLYFISHDUQ_64
+  - first:
+      213: 6093176297970848824
+    second: JELLYFISHDUQ_65
+  - first:
+      213: 8041864478849329975
+    second: JELLYFISHDUQ_66
+  - first:
+      213: -7792309587194975183
+    second: JELLYFISHDUQ_67
+  - first:
+      213: -4814427279650379146
+    second: JELLYFISHDUQ_68
+  - first:
+      213: -7152614220951389685
+    second: JELLYFISHDUQ_69
+  - first:
+      213: 6326200812988349983
+    second: JELLYFISHDUQ_70
+  - first:
+      213: 4365688068962373663
+    second: JELLYFISHDUQ_71
+  - first:
+      213: -8902980680417660466
+    second: JELLYFISHDUQ_72
+  - first:
+      213: 3329802414451725209
+    second: JELLYFISHDUQ_73
+  - first:
+      213: -4769238772295789527
+    second: JELLYFISHDUQ_74
+  - first:
+      213: 3981346642305118701
+    second: JELLYFISHDUQ_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 644
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123f86562cc437445a5e34c0fd007364
+      internalID: 2386719813411959302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 644
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88527e882b570a947856c3ae9dd59be7
+      internalID: -6622738503557659844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 644
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66745f2e752336444a81163af784732e
+      internalID: -7073484344508604071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 644
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64008f4f9836a204da07d4464c50f000
+      internalID: 3597613701255005902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_5
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 708
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2254b17bd19a2cc42ac7d8828b2c65b8
+      internalID: 1798726549022805836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 702
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7823368e0b3144d8002619142f440a
+      internalID: -7699846973004987543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 702
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb82242e8847f56439d9da914246101b
+      internalID: 2598103847411318585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_8
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 701
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689b42d821362ee4f8a5792ddc4c154c
+      internalID: 7291273411459003088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 705
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d98ab56cd37ecf49922e91d8871555b
+      internalID: 4468409683363456759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_10
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 705
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f4188d2f9caca499adb55364a79dbb
+      internalID: -4761082686124359575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 644
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4ce51b7ab27824caa405bf050a20c5
+      internalID: -4399467453391554630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 644
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45adae6d2db03b846ae6b9211b6f9243
+      internalID: 2113697914193402193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 653
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3804484603c4446bced95ac1faac01
+      internalID: 5380529857841676957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_14
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 698
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6011bce06f85ea74c9a0708069759792
+      internalID: 7197583388186318088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_15
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 648
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f592f243ab2b6449b8f288c86158a87
+      internalID: -8903401713669198728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_16
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 699
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1feea102de6324f8f8275925f499b1
+      internalID: -4463682017783335732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 644
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2769d594d9264dbcb04a61aca6ef1
+      internalID: -8590086292300059425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 645
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bda869f00f6664587c8c1c5ea1f26d
+      internalID: 5122779651466394826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_19
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f7f9216a8a53b4ab49d6f32088998e
+      internalID: 5425852473478853086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_20
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 642
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d8e5c9956a88468c3c88856ef955d
+      internalID: -9202113624532404300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 551
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887105b0f0d2c544d81f573f01d37238
+      internalID: 5704271449744331862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 551
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5117ee5b093b36e4f996a86e944e00c0
+      internalID: -2964662358899064714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 551
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a2e1595e80e949a9ebdd31f35a895
+      internalID: -3293431063506632328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 551
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f721b35dc8a9204f914d657e3b3cc1a
+      internalID: 3013848137130048075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_25
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 551
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886baa17a61c5ae428864a435a92582a
+      internalID: -865989137993153651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 551
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe6739a2f88c2f438e2d4369974dc7a
+      internalID: -1045104907034081616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_27
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 551
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3f939d260b00443a10956963571801
+      internalID: -9213412332168274519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_28
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 551
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992f9d30cf0ca704b9872f8418ae5912
+      internalID: -5134128724430441693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 455
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55712038c8ce6244b3ecbea56bf91d4
+      internalID: 7533492741438192605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 455
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d774352906dc6894bbc9083e8ea8d8f5
+      internalID: 3279672382588685646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 455
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e338e49b6c9eec42ba66f5d1ff5972b
+      internalID: -3492442508833623793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 455
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1cee20b4b9e334fa956b97f74757ef
+      internalID: -776742364761917812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 455
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac720c706011fd43821ceab264890f2
+      internalID: -6681079346885732767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 455
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d16b31e20dd0e49ba774c4a7f517f3
+      internalID: -8804603143979602974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_35
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 455
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437ee5dd222b9942909e8c136a5b9d5
+      internalID: 4571520893317226708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_36
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 455
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b23ab7927fca4b8f1b5603949a4c8
+      internalID: -4820957113073215346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 360
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb8d29c0a4f284880c9a61d0284178
+      internalID: 3297853198369244742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 360
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d747fe9fda0e7468e9e9ce08497015
+      internalID: -8373137076302730562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 360
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef227c27d856ee41903775627c0b203
+      internalID: 2313271656021641115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 360
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913aa8768d22b61488889bc1b3562e1d
+      internalID: 6772878133294610772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 360
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bdeae37ed2a454cb6d04aa2127dda0
+      internalID: -6698871723198487971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 360
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a12a7c91d83b4f8c100f89366bf2b
+      internalID: -39297430062317369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_43
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 360
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685ad754e7fae604ca9c03e4a38966d5
+      internalID: 4672999405280485400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_44
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 360
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9513d856a9bba408b9ead7b39ddb48
+      internalID: 7378306683565775718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 266
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c563eff5448934c9b1608ba7faa6f4
+      internalID: -3115965524166759549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 266
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dbfbc4b5f9c6b47b7ccdc90371fdbf
+      internalID: 5942508511151007686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_47
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 266
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ebd90387b003429dd4602726dfb27
+      internalID: -4734868169932174157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 266
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875943eb21388c346818a07f6c75db77
+      internalID: -6813643902804866188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 266
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7a57a430329fd4389046490fb60ce0
+      internalID: 7643354861306898019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_50
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 266
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c31fe998468443b18054e8cfe8b8c
+      internalID: 8905879533450269283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 266
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd19eba361c07248b7549f04ae43e85
+      internalID: -671312299052526923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_52
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 266
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f19ccc6223c947b48995278d2833b
+      internalID: -8535671201604554815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 122
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc363a4599d26241ade77c0be1b186e
+      internalID: -7632243355506728861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978db52171272ad48a76fd37701fc9b2
+      internalID: -8809684973865582989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_55
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 122
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf37799368195445a8f1edace67265f
+      internalID: -6205475835982290606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 122
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506d0d8fef1dcf94c931c8ab27e21a1a
+      internalID: 4418704120374795455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_57
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 122
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43034057fd5beb4b8389dd4873bf590
+      internalID: 8969955606100215616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_58
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 117
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a76bf20a64024d8a985b3f74611bf
+      internalID: -3886546900108544218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 111
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9611a457df0064bb313d1d31270c3c
+      internalID: -4125876248091358058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_61
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 122
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29119cd6ec1487d4596851261b273acc
+      internalID: -1705857282626524030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381682306585824c8fc180884dbfa8a
+      internalID: 6093176297970848824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_66
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 12
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56bca636d573f6479cbd6f3e71e9ce2
+      internalID: 8041864478849329975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_67
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ab095f6c98d5f49b26123d6122f93d
+      internalID: -7792309587194975183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 12
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfa07d6bfa2604b8543c90515881a5
+      internalID: -4814427279650379146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 12
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d7fa4a17752743a5bddd7737173d4
+      internalID: -7152614220951389685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_70
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 105
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1528abad959744ac41b83c16698cd
+      internalID: 6326200812988349983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_71
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 105
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7c1fda44827143b2bd44684cb0743
+      internalID: 4365688068962373663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_72
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 56
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dedcee2213d2a40852ed838159c0d4
+      internalID: -8902980680417660466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_73
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 12
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15ddb4a64c86a4abfabc09eb1e48a8
+      internalID: 3329802414451725209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JELLYFISHDUQ_74
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 30
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a7e0a666500f488b31bef7df77497
+      internalID: -4769238772295789527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c3d816bf2fea604ab44c59df064d887
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
