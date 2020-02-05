@@ -314,8 +314,8 @@ GameObject:
   - component: {fileID: 1483861868894798043}
   - component: {fileID: 1483861868894798040}
   - component: {fileID: 987518916}
-  - component: {fileID: 1877167817}
   - component: {fileID: 1877167818}
+  - component: {fileID: 2074453658}
   m_Layer: 0
   m_Name: Character
   m_TagString: Player
@@ -485,15 +485,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6830582e381ef94b9115d8cc075454e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MaxSpeed: 7.8
+  m_MaxSpeed: 6
   airSpeed: 8
-  m_JumpForce: 800
+  m_JumpForce: 250
   m_CrouchSpeed: 0.36
   m_AirControl: 1
   m_WhatIsGround:
     serializedVersion: 2
     m_Bits: 3840
   health: 1
+  text: {fileID: 0}
 --- !u!114 &1483861868894798040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -532,7 +533,7 @@ MonoBehaviour:
   - {fileID: 701269519}
   - {fileID: 550300879}
   shuriken: {fileID: 8300000, guid: 0c008ee3ee72a4362a35be25fa5de043, type: 3}
---- !u!82 &1877167817
+--- !u!82 &1877167818
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -542,9 +543,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c008ee3ee72a4362a35be25fa5de043, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bbb2d206ac430014593fe5696f7b62eb, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.103
+  m_Volume: 0.625
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -628,19 +629,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!82 &1877167818
+--- !u!82 &2074453658
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483861868894798039}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: bbb2d206ac430014593fe5696f7b62eb, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 0.625
+  m_audioClip: {fileID: 8300000, guid: a5ef2f39dd16f2b4a9ce215ad066382c, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0

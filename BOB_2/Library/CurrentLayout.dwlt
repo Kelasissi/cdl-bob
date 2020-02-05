@@ -15,23 +15,13 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 43
     width: 1920
     height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 766}
-=======
-    y: 43.2
-    width: 1536
-    height: 780.8
-  m_ShowMode: 4
-  m_Title: 
-  m_RootView: {fileID: 2}
   m_MinSize: {x: 950, y: 300}
->>>>>>> Build JPO 05/02
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -53,13 +43,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 1920
     height: 997
-=======
-    width: 1536
-    height: 781
->>>>>>> Build JPO 05/02
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -79,11 +64,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 1920
-=======
-    width: 1536
->>>>>>> Build JPO 05/02
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -104,13 +85,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 977
     width: 1920
-=======
-    y: 761
-    width: 1536
->>>>>>> Build JPO 05/02
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -133,21 +109,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-<<<<<<< TO
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 716}
-  m_MaxSize: {x: 18006, y: 18066}
-  vertical: 0
-  controlID: 89
-=======
-    width: 1536
-    height: 731
   m_MinSize: {x: 681, y: 716}
   m_MaxSize: {x: 18006, y: 18066}
   vertical: 0
-  controlID: 5413
->>>>>>> Build JPO 05/02
+  controlID: 144
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,21 +134,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 1388
     height: 947
   m_MinSize: {x: 406, y: 716}
-  m_MaxSize: {x: 14004, y: 18066}
-  vertical: 1
-  controlID: 90
-=======
-    width: 1110
-    height: 731
-  m_MinSize: {x: 406, y: 716}
   m_MaxSize: {x: 14006, y: 18066}
   vertical: 1
-  controlID: 5414
->>>>>>> Build JPO 05/02
+  controlID: 145
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -201,21 +159,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 1388
     height: 595
   m_MinSize: {x: 406, y: 444}
   m_MaxSize: {x: 8006, y: 8044}
   vertical: 0
-  controlID: 91
-=======
-    width: 1110
-    height: 459
-  m_MinSize: {x: 406, y: 444}
-  m_MaxSize: {x: 8006, y: 8044}
-  vertical: 0
-  controlID: 5415
->>>>>>> Build JPO 05/02
+  controlID: 146
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,21 +184,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 476
     height: 595
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 18
-=======
-    width: 381
-    height: 459
-  m_MinSize: {x: 202, y: 444}
-  m_MaxSize: {x: 4002, y: 8044}
-  vertical: 1
-  controlID: 5453
->>>>>>> Build JPO 05/02
+  controlID: 170
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,17 +207,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 476
     height: 307
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    width: 381
-    height: 237
   m_MinSize: {x: 202, y: 222}
   m_MaxSize: {x: 4002, y: 4022}
->>>>>>> Build JPO 05/02
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -299,15 +232,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 307
     width: 476
     height: 288
-=======
-    y: 237
-    width: 381
-    height: 222
->>>>>>> Build JPO 05/02
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
@@ -330,21 +257,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< TO
     x: 476
     y: 0
     width: 912
     height: 595
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    x: 381
-    y: 0
-    width: 729
-    height: 459
   m_MinSize: {x: 204, y: 222}
   m_MaxSize: {x: 4004, y: 4022}
->>>>>>> Build JPO 05/02
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -370,23 +288,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 595
     width: 1388
     height: 352
-  m_MinSize: {x: 334, y: 272}
-  m_MaxSize: {x: 14004, y: 10022}
-  vertical: 0
-  controlID: 40
-=======
-    y: 459
-    width: 1110
-    height: 272
   m_MinSize: {x: 336, y: 272}
   m_MaxSize: {x: 14006, y: 10022}
   vertical: 0
-  controlID: 5289
->>>>>>> Build JPO 05/02
+  controlID: 86
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -404,17 +312,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< TO
     width: 699
     height: 352
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
-=======
-    width: 559
-    height: 272
-  m_MinSize: {x: 102, y: 122}
-  m_MaxSize: {x: 4002, y: 4022}
->>>>>>> Build JPO 05/02
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -435,17 +336,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< TO
     x: 699
     y: 0
     width: 689
     height: 352
-=======
-    x: 559
-    y: 0
-    width: 551
-    height: 272
->>>>>>> Build JPO 05/02
   m_MinSize: {x: 234, y: 272}
   m_MaxSize: {x: 10004, y: 10022}
   m_ActualView: {fileID: 22}
@@ -468,21 +362,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< TO
     x: 1388
     y: 0
     width: 532
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    x: 1110
-    y: 0
-    width: 426
-    height: 731
   m_MinSize: {x: 277, y: 72}
   m_MaxSize: {x: 4002, y: 4022}
->>>>>>> Build JPO 05/02
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
@@ -510,21 +395,12 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 380
     width: 476
     height: 269
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
-  m_MaximizeOnPlay: 1
-=======
-    y: 310.4
-    width: 381
-    height: 203
-  m_ViewDataDictionary: {fileID: 0}
-  m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
->>>>>>> Build JPO 05/02
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -534,17 +410,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-<<<<<<< TO
     m_HBaseRangeMin: -224
     m_HBaseRangeMax: 224
     m_VBaseRangeMin: -126
     m_VBaseRangeMax: 126
-=======
-    m_HBaseRangeMin: -132.40001
-    m_HBaseRangeMax: 132.40001
-    m_VBaseRangeMin: -74.4
-    m_VBaseRangeMax: 74.4
->>>>>>> Build JPO 05/02
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -562,43 +431,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-<<<<<<< TO
       width: 476
       height: 252
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 238, y: 126}
-=======
-      width: 381
-      height: 186
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 190.5, y: 93}
->>>>>>> Build JPO 05/02
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-<<<<<<< TO
       x: -238
       y: -126
       width: 476
       height: 252
-=======
-      x: -190.5
-      y: -93
-      width: 381
-      height: 186
->>>>>>> Build JPO 05/02
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-<<<<<<< TO
   m_LastWindowPixelSize: {x: 476, y: 269}
-=======
-  m_LastWindowPixelSize: {x: 476.25, y: 253.75}
->>>>>>> Build JPO 05/02
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -625,28 +476,16 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 73
     width: 476
     height: 288
-=======
-    y: 73.6
-    width: 381
-    height: 218
->>>>>>> Build JPO 05/02
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< TO
-      m_SelectedIDs: c6480000
-      m_LastClickedID: 18630
-      m_ExpandedIDs: fcf5ffff2ef7ffff8efbffffb4480000
-=======
-      m_SelectedIDs: 
+      m_SelectedIDs: 48240000
       m_LastClickedID: 0
-      m_ExpandedIDs: 440fffff8610ffff961dffffcc1dffff181effff8a1efffff61effff601fffffc81fffff2822ffff8224ffff2427ffff6829ffff842bffff8e2dffff8a2fffff7431ffff5233ffff0035ffff5e36ffff6e36ffff3637ffff6c37ffffb837ffff2a38ffff9638ffff0039ffff6839ffffc83bffff223effffc440ffff0843ffff2445ffff2e47ffff2a49ffff144bfffff24cffffa04efffffe4fffff0e50ffff5251ffff8651ffffd251ffff4452ffffb052ffff1a53ffff8253ffffe255ffff3c58ffffde5affff225dffff3e5fffff4861ffff4463ffff2e65ffff0c67ffffba68ffff186affff286affffde6affff126bffff5e6bffffd06bffff3c6cffffa66cffff0e6dffff6e6fffffc871ffff6a74ffffae76ffffca78ffffd47affffd07cffffba7effff9880ffff4682ffffa483ffffb483ffff7884ffffac84ffff0486ffff7686ffffe286ffff4c87ffffb487ffff148affff6e8cffff108fffff5491ffff7093ffff7c95ffff7c97ffff6899ffff4a9bfffffa9cffff5a9effff6a9effff58a3ffff30a4ffff60a4ffffc2a5ffff34a6ffffa0a6ffff0aa7ffff72a7ffffd2a9ffff2cacffffceaeffff12b1ffff2eb3ffff3ab5ffff3ab7ffff26b9ffff08bbffffb8bcffff18beffff28beffff42bfffff70bfffffd6c0ffff4cc1ffffbcc1ffff2ac2ffff96c2fffffac4ffff58c7fffffec9ffff46ccffff66ceffff76d0ffff7ad2ffff6ad4ffff50d6ffff04d8ffff68d9ffff7cd9ffff7cdcffffb0dcffff16deffff8cdefffffcdeffff6adfffffd6dfffff3ae2ffff98e4ffff3ee7ffff86e9ffffa6ebffffb6edffffbaefffffaaf1ffff90f3ffff44f5ffffa8f6ffffbcf6ffff7ef8ffff70fbffff5a6c000008b200005ab30000
->>>>>>> Build JPO 05/02
+      m_ExpandedIDs: 8095ffffb296ffff705f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -691,17 +530,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< TO
     x: 476
     y: 73
     width: 910
     height: 576
-=======
-    x: 380.80002
-    y: 73.6
-    width: 727
-    height: 440
->>>>>>> Build JPO 05/02
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 8b95c763c4da39d448c61fd7a5d35af5
@@ -713,15 +545,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< TO
-    m_Target: {x: 4.808784, y: 4.907607, z: -158.51953}
+    m_Target: {x: 2.4611523, y: 1.0580302, z: -65.67969}
     speed: 2
-    m_Value: {x: 4.808784, y: 4.907607, z: -158.51953}
-=======
-    m_Target: {x: -30.96014, y: 2.6965718, z: -43.15229}
-    speed: 2
-    m_Value: {x: -30.283192, y: 3.1080966, z: -42.97019}
->>>>>>> Build JPO 05/02
+    m_Value: {x: 2.4611523, y: 1.0580302, z: -65.67969}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -754,15 +580,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< TO
-    m_Target: 28.43628
+    m_Target: 18.139547
     speed: 2
-    m_Value: 29.776209
-=======
-    m_Target: 48.315765
-    speed: 2
-    m_Value: 50.592422
->>>>>>> Build JPO 05/02
+    m_Value: 18.139547
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -984,15 +804,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-<<<<<<< TO
     y: 668
     width: 699
     height: 333
-=======
-    y: 532
-    width: 559
-    height: 253
->>>>>>> Build JPO 05/02
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &22
 MonoBehaviour:
@@ -1015,17 +829,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< TO
     x: 699
     y: 668
     width: 687
     height: 333
-=======
-    x: 559.2
-    y: 532
-    width: 549
-    height: 253
->>>>>>> Build JPO 05/02
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -1039,37 +846,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< TO
-    - Assets
-  m_ViewMode: 1
-  m_StartGridSize: 64
-  m_LastFolders:
-  - Assets
-  m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Kelasius\Desktop\GitKraken\cdl-bob\BOB_2
-  m_LockTracker:
-    m_IsLocked: 0
-  m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e6290000
-    m_LastClickedID: 10726
-    m_ExpandedIDs: 00000000e6290000c82c0000e82c00005a3600003c370000183d0000f23e0000b840000000ca9a3b
-=======
     - Assets/Script
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Script
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Kelasius\Desktop\BOB_Espoir\BOB_2
+  m_LastProjectPath: C:\Users\Kelasius\Desktop\GitKraken\cdl-bob\BOB_2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 39}
-    m_SelectedIDs: aa3d0000
-    m_LastClickedID: 15786
-    m_ExpandedIDs: 00000000122a0000f42c0000142d00008636000068370000443d00001e3f0000e440000000ca9a3b
->>>>>>> Build JPO 05/02
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 3c5e0000
+    m_LastClickedID: 24124
+    m_ExpandedIDs: 000000003a5b0000b05b0000bc5b0000245d0000485d0000305e0000705e0000c85e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1097,11 +887,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< TO
-    m_ExpandedIDs: 00000000e6290000c82c0000e82c00005a3600003c370000183d0000f23e0000b8400000
-=======
-    m_ExpandedIDs: 00000000122a0000f42c0000142d00008636000068370000443d00001e3f0000e440000000ca9a3b
->>>>>>> Build JPO 05/02
+    m_ExpandedIDs: 000000003a5b0000b05b0000bc5b0000245d0000485d0000305e0000705e0000c85e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1128,7 +914,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000663b0000b63c000000000000445b00008c2f000048da010058340000a24e0100d62c0000a8340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1153,11 +939,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-<<<<<<< TO
-    m_ScrollPosition: {x: 0, y: 0}
-=======
-    m_ScrollPosition: {x: 0, y: 134.5}
->>>>>>> Build JPO 05/02
+    m_ScrollPosition: {x: 0, y: 89}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 112
 --- !u!114 &23
@@ -1181,17 +963,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< TO
     x: 1388
     y: 73
     width: 530
     height: 928
-=======
-    x: 1110.4
-    y: 73.6
-    width: 424
-    height: 712
->>>>>>> Build JPO 05/02
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []

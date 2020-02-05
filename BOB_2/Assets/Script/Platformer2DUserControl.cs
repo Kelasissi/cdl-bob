@@ -9,6 +9,7 @@ namespace UnityStandardAssets._2D
     {
         private PlatformerCharacter2D m_Character;
         private bool m_Jump;
+        public bool m_Grounded;
 
         public KeyCode jumpTouch;
         public KeyCode leftTouch;
@@ -40,13 +41,12 @@ namespace UnityStandardAssets._2D
             {
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
                 m_Jump = Input.GetKey(jumpTouch);
-                
             }
-            else
+
+            if (Input.GetKeyDown(jumpTouch) && !m_Grounded)
             {
                 audioSource.PlayOneShot(jump, 0.2F);
             }
-            
 
             if (Input.GetKeyDown(resetTouch))
             {
@@ -75,6 +75,8 @@ namespace UnityStandardAssets._2D
             {
                 h = 1;
             }
+
+            
 
             // Pass all parameters to the character control script.
             m_Character.Move(h, crouch, m_Jump);
