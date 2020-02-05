@@ -26,10 +26,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -1852,7 +1850,7 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: 8ce4b4dd0853fc4a28e1d4914cd4f9af
+      Hash: 1132b757a7469cd99d77a1178972666c
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityStandardAssets._2D
     className: PlatformerCharacter2D
@@ -1942,7 +1940,7 @@ ScriptsOnlyBuild:
     className: Menu
   - hash:
       serializedVersion: 2
-      Hash: 0319471bff5fcc690726bddf225b745d
+      Hash: 44ecf00da3f8e02e219da3f95cf7d5ba
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityStandardAssets._2D
     className: Platformer2DUserControl
@@ -2301,4 +2299,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Aquarium 13.unity
   - Assets/Scenes/Aquarium 14.unity
   - Assets/Scenes/Aquarium 15.unity
-  playerPath: C:/Users/Kelasius/Desktop/BOB_Espoir/BOB_2/Build_Final/BOB.exe
+  playerPath: C:/Users/Kelasius/Desktop/Build BOB Git/BOB.exe

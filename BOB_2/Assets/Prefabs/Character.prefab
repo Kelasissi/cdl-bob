@@ -487,14 +487,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_MaxSpeed: 6
   airSpeed: 8
-  m_JumpForce: 250
+  m_JumpForce: 275
   m_CrouchSpeed: 0.36
   m_AirControl: 1
   m_WhatIsGround:
     serializedVersion: 2
     m_Bits: 3840
+  m_Grounded: 0
   health: 1
   text: {fileID: 0}
+  jumpTouch: 0
 --- !u!114 &1483861868894798040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -507,6 +509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10bcc135350ade44d83a8e473a056d4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Grounded: 0
   jumpTouch: 32
   leftTouch: 276
   rightTouch: 275
