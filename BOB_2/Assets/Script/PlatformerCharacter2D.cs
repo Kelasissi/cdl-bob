@@ -25,7 +25,7 @@ namespace UnityStandardAssets._2D
         private Rigidbody2D m_Rigidbody2D;
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
         public int health = 1;
-        public Text text;
+        
         public KeyCode jumpTouch;
 
 
@@ -56,7 +56,7 @@ namespace UnityStandardAssets._2D
             
             
 
-            text.text = m_Grounded.ToString();
+            
             m_Anim.SetBool("Ground", m_Grounded);
 
             // Set the vertical animation

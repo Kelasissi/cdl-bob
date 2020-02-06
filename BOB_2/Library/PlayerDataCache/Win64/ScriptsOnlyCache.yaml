@@ -283,6 +283,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
+    - Class: 251
+      Script: {instanceID: 0}
     Assets/Scenes/Aquarium 03.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -365,6 +367,8 @@ ScriptsOnlyBuild:
     - Class: 222
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 251
       Script: {instanceID: 0}
     Assets/Scenes/Aquarium 04.unity:
     - Class: 1
@@ -538,6 +542,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
+    - Class: 251
+      Script: {instanceID: 0}
     Assets/Scenes/Aquarium 06.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -626,6 +632,8 @@ ScriptsOnlyBuild:
     - Class: 222
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 251
       Script: {instanceID: 0}
     Assets/Scenes/Aquarium 07.unity:
     - Class: 1
@@ -716,6 +724,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
+    - Class: 251
+      Script: {instanceID: 0}
     Assets/Scenes/Aquarium 08.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -798,6 +808,8 @@ ScriptsOnlyBuild:
     - Class: 222
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 251
       Script: {instanceID: 0}
     Assets/Scenes/Aquarium 09.unity:
     - Class: 1
@@ -926,6 +938,8 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 9286}
+    - Class: 114
       Script: {instanceID: 9288}
     - Class: 114
       Script: {instanceID: 9388}
@@ -960,6 +974,8 @@ ScriptsOnlyBuild:
     - Class: 222
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 251
       Script: {instanceID: 0}
     Assets/Scenes/Aquarium 11.unity:
     - Class: 1
@@ -1850,7 +1866,7 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
-      Hash: 1132b757a7469cd99d77a1178972666c
+      Hash: 9e085961c782bbc21339e3d5528e2f6e
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityStandardAssets._2D
     className: PlatformerCharacter2D

@@ -170,6 +170,7 @@ GameObject:
   - component: {fileID: 9015452124237374393}
   - component: {fileID: 7825918754718907818}
   - component: {fileID: 7096004969130626563}
+  - component: {fileID: 103319466}
   m_Layer: 11
   m_Name: Platform_fish_horizontal
   m_TagString: Platform
@@ -204,7 +205,7 @@ CapsuleCollider2D:
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
+  m_UsedByEffector: 1
   m_UsedByComposite: 0
   m_Offset: {x: 0.47786242, y: 0.018824993}
   m_Size: {x: 1.5003552, y: 0.34077662}
@@ -252,3 +253,22 @@ MonoBehaviour:
   speed: 2
   startPos: {fileID: 0}
   isVertical: 0
+--- !u!251 &103319466
+PlatformEffector2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9015452124237374395}
+  m_Enabled: 1
+  m_UseColliderMask: 0
+  m_ColliderMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RotationalOffset: 0
+  m_UseOneWay: 0
+  m_UseOneWayGrouping: 0
+  m_SurfaceArc: 180
+  m_UseSideFriction: 1
+  m_UseSideBounce: 0
+  m_SideArc: 1
