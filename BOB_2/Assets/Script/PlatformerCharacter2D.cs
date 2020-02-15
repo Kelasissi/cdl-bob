@@ -25,6 +25,7 @@ namespace UnityStandardAssets._2D
         private Rigidbody2D m_Rigidbody2D;
         private bool m_FacingRight = true;  // For determining which way the player is currently facing.
         public int health = 1;
+        private SpriteRenderer sr; 
         
         public KeyCode jumpTouch;
 
@@ -37,6 +38,7 @@ namespace UnityStandardAssets._2D
             m_CeilingCheck = transform.Find("CeilingCheck");
             m_Anim = GetComponent<Animator>();
             m_Rigidbody2D = GetComponent<Rigidbody2D>();
+            sr = GetComponent<SpriteRenderer>();
         }
 
 
@@ -152,9 +154,7 @@ namespace UnityStandardAssets._2D
             m_FacingRight = !m_FacingRight;
 
             // Multiply the player's x local scale by -1.
-            Vector3 theScale = transform.localScale;
-            theScale.x *= -1;
-            transform.localScale = theScale;
+            sr.flipX = !sr.flipX;
         }
 
         /*public void OnTriggerEnter2D(Collider2D other)
@@ -172,6 +172,8 @@ namespace UnityStandardAssets._2D
                 }
         }*/
 
+
+        //Lorsque le joueur touche un ennemi
         public void Lose()
         {
             health--;
@@ -185,16 +187,20 @@ namespace UnityStandardAssets._2D
                 //   StartCoroutine(WaitAndLose());
             }
         }
+
+        //Utilisation des algues pour réduire la vitesse
         public void Slow()
         {
             m_MaxSpeed = 3f;
         }
 
+        //Reprise de la vitesse normale du personnage
         public void SetNormalSpeed()
         {
             m_MaxSpeed = 6f;
         }
 
+        //Pour que le joueur reste sur la plateforme sans en tomber lorsqu'elle bouge
         public void OnCollisionEnter2D(Collision2D collision)
         {
             if (collision.gameObject.tag == "Platform")
@@ -203,6 +209,7 @@ namespace UnityStandardAssets._2D
             }
         }
 
+        //Pour que le joueur continue de bouger après avoir sauté de la plateforme sans en dépendre
         public void OnCollisionExit2D(Collision2D collision)
         {
             if (collision.gameObject.tag == "Platform")

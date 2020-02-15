@@ -19,6 +19,9 @@ namespace UnityStandardAssets._2D
         public AudioClip jump;
         AudioSource audioSource;
 
+        public SideChecker sideCheckerLeftScript;
+        public SideChecker sideCheckerRightScript;
+
 
         private void Awake()
         {
@@ -64,19 +67,18 @@ namespace UnityStandardAssets._2D
         {
             // Read the inputs.
             bool crouch = Input.GetKey(KeyCode.LeftControl);
-            float h = CrossPlatformInputManager.GetAxis("Horizontal");
+            float h = 0;
 
-            if (Input.GetKey(leftTouch))
+            if (Input.GetKey(leftTouch) && sideCheckerLeftScript.IsColliding() == false)
             {
                 h = -1;
             }
 
-            if (Input.GetKey(rightTouch))
+            if (Input.GetKey(rightTouch) && sideCheckerRightScript.IsColliding() == false)
             {
                 h = 1;
             }
 
-            
 
             // Pass all parameters to the character control script.
             m_Character.Move(h, crouch, m_Jump);

@@ -76,6 +76,7 @@
      <Compile Include="Assets\Script\Shark.cs" />
      <Compile Include="Assets\Script\Sheauriken.cs" />
      <Compile Include="Assets\Script\SheaurikenAbility.cs" />
+     <Compile Include="Assets\Script\SideChecker.cs" />
      <Compile Include="Assets\Script\Spike.cs" />
      <Compile Include="Assets\Stopmusic.cs" />
      <Compile Include="Assets\Underwater Diving\Scripts\CameraController.cs" />

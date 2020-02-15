@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 979267458}
   - component: {fileID: 979267461}
   m_Layer: 9
-  m_Name: 2-1-1
+  m_Name: Filet
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -437,7 +437,7 @@ GameObject:
   - component: {fileID: 1080121956}
   - component: {fileID: 1080121955}
   m_Layer: 0
-  m_Name: Laboratory 0%
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -658,7 +658,7 @@ GameObject:
   - component: {fileID: 1448127032}
   - component: {fileID: 1448127031}
   m_Layer: 0
-  m_Name: GameObject (3)
+  m_Name: Good Bye
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
