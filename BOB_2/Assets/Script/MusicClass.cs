@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class MusicClass : MonoBehaviour
 {
     private AudioSource _audioSource;
-    
+    public AudioClip _audioClip2;
     
 
     private void Awake()
@@ -17,6 +17,12 @@ public class MusicClass : MonoBehaviour
         DontDestroyOnLoad(transform.gameObject);
         _audioSource = GetComponent<AudioSource>();
         
+    }
+
+    void PlayEndMusic()
+    {
+        _audioSource.clip = _audioClip2;
+        _audioSource.Play();
     }
 
     void OnEnable()
@@ -42,7 +48,7 @@ public class MusicClass : MonoBehaviour
         {
             Debug.Log("Stopper la Musique de début");
             StopMusic();
-            PlayMusic();
+            PlayEndMusic();
         }
     }
 

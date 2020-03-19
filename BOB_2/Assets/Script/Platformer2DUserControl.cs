@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
+using UnityEngine.SceneManagement;
 
 namespace UnityStandardAssets._2D
 {
@@ -11,17 +12,24 @@ namespace UnityStandardAssets._2D
         private bool m_Jump;
         public bool m_Grounded;
 
+        private int nextSceneToLoad;
+
         public KeyCode jumpTouch;
         public KeyCode leftTouch;
         public KeyCode rightTouch;
         public KeyCode resetTouch;
         public KeyCode quitTouch;
+        public KeyCode nextTouch;
         public AudioClip jump;
         AudioSource audioSource;
 
         public SideChecker sideCheckerLeftScript;
         public SideChecker sideCheckerRightScript;
 
+        private void Start()
+        {
+            nextSceneToLoad = SceneManager.GetActiveScene().buildIndex + 1;
+        }
 
         private void Awake()
         {
@@ -77,6 +85,11 @@ namespace UnityStandardAssets._2D
             if (Input.GetKey(rightTouch) && sideCheckerRightScript.IsColliding() == false)
             {
                 h = 1;
+            }
+
+            if (Input.GetKey(nextTouch))
+            {
+                SceneManager.LoadScene(nextSceneToLoad);
             }
 
 

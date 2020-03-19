@@ -13,13 +13,15 @@ public class SideChecker : MonoBehaviour
     }
 
     //Détermine si le joueur se trouve en face d'un mur
-    void OnTriggerStay2D(Collider2D Collision)
+    void OnTriggerStay2D(Collider2D other)
     {
-        isColliding = true;
+        if (other.gameObject.CompareTag("Algue") == false) { 
+            isColliding = true;
+        }
     }
 
     //Détermine si le joueur ne se trouve plus en face d'un mur
-    void OnTriggerExit2D(Collider2D Collision)
+    void OnTriggerExit2D(Collider2D other)
     {
         isColliding = false;
     }

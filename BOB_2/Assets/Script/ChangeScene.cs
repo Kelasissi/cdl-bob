@@ -17,7 +17,6 @@ public class ChangeScene : MonoBehaviour{
     {
         if (collision.transform.CompareTag("Player") && activated == true)
         {
-            
             SceneManager.LoadScene(nextSceneToLoad);
         }
 

@@ -489,7 +489,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_MaxSpeed: 6
   airSpeed: 8
-  m_JumpForce: 275
+  m_JumpForce: 350
   m_CrouchSpeed: 0.36
   m_AirControl: 1
   m_WhatIsGround:
@@ -516,6 +516,7 @@ MonoBehaviour:
   rightTouch: 275
   resetTouch: 102
   quitTouch: 27
+  nextTouch: 127
   jump: {fileID: 8300000, guid: bbb2d206ac430014593fe5696f7b62eb, type: 3}
   sideCheckerLeftScript: {fileID: 9187410545845427437}
   sideCheckerRightScript: {fileID: 4238151922137245115}
