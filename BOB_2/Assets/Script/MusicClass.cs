@@ -40,15 +40,18 @@ public class MusicClass : MonoBehaviour
 
     void OnLevelFinishedLoading(Scene scene, LoadSceneMode mode)
     {
-        Debug.Log("Level Loaded");
-        Debug.Log(scene.name);
-        Debug.Log(mode);
 
         if (scene.name == "Aquarium 11")
         {
             Debug.Log("Stopper la Musique de début");
             StopMusic();
             PlayEndMusic();
+        }
+
+        if (scene.name == "Aquarium 01")
+        {
+            StopMusic();
+            PlayMusic();
         }
     }
 
