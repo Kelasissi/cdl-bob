@@ -34,13 +34,13 @@ namespace UnityStandardAssets._2D
         private void Awake()
         {
             // Setting up references.
+            //DontDestroyOnLoad(this.gameObject);
             m_GroundCheck = transform.Find("GroundCheck");
             m_CeilingCheck = transform.Find("CeilingCheck");
             m_Anim = GetComponent<Animator>();
             m_Rigidbody2D = GetComponent<Rigidbody2D>();
             sr = GetComponent<SpriteRenderer>();
         }
-
 
         private void FixedUpdate()
         {
@@ -55,10 +55,10 @@ namespace UnityStandardAssets._2D
                     m_Grounded = true;
             }
 
-            
-            
 
-            
+
+
+
             m_Anim.SetBool("Ground", m_Grounded);
 
             // Set the vertical animation
@@ -69,47 +69,9 @@ namespace UnityStandardAssets._2D
 
         public void Move(float move, bool crouch, bool jump)
         {
-            // If crouching, check to see if the character can stand up
-            if (!crouch && m_Anim.GetBool("Crouch"))
-            {
-                // If the character has a ceiling preventing them from standing up, keep them crouching
-                if (Physics2D.OverlapCircle(m_CeilingCheck.position, k_CeilingRadius, m_WhatIsGround))
-                {
-                    crouch = true;
-                }
-            }
-
-            // Set whether or not the character is crouching in the animator
-            m_Anim.SetBool("Crouch", crouch);
 
             //only control the player if grounded or airControl is turned on
             if (m_Grounded || m_AirControl)
-            {
-                // Reduce the speed if crouching by the crouchSpeed multiplier
-                move = (crouch ? move*m_CrouchSpeed : move);
-
-                // The Speed animator parameter is set to the absolute value of the horizontal input.
-                m_Anim.SetFloat("Speed", Mathf.Abs(move));
-
-                // Move the character
-                m_Rigidbody2D.velocity = new Vector2(move*m_MaxSpeed, m_Rigidbody2D.velocity.y);
-
-                // If the input is moving the player right and the player is facing left...
-                if (move > 0 && !m_FacingRight)
-                {
-                    // ... flip the player.
-                    Flip();
-                }
-                    // Otherwise if the input is moving the player left and the player is facing right...
-                else if (move < 0 && m_FacingRight)
-                {
-                    // ... flip the player.
-                    Flip();
-                }
-            }
-
-            // Moving in the air
-            if (!m_Grounded && m_AirControl)
             {
                 // Reduce the speed if crouching by the crouchSpeed multiplier
                 move = (crouch ? move * m_CrouchSpeed : move);
@@ -118,30 +80,42 @@ namespace UnityStandardAssets._2D
                 m_Anim.SetFloat("Speed", Mathf.Abs(move));
 
                 // Move the character
-                m_Rigidbody2D.velocity = new Vector2(move * airSpeed, m_Rigidbody2D.velocity.y);
+                m_Rigidbody2D.velocity = new Vector2(move * m_MaxSpeed, m_Rigidbody2D.velocity.y);
 
-                // If the input is moving the player right and the player is facing left...
                 if (move > 0 && !m_FacingRight)
                 {
-                    // ... flip the player.
                     Flip();
                 }
-                // Otherwise if the input is moving the player left and the player is facing right...
                 else if (move < 0 && m_FacingRight)
                 {
-                    // ... flip the player.
                     Flip();
                 }
             }
 
-            // If the player should jump...
-            if (m_Grounded && jump /*&& m_Anim.GetBool("Ground")*/)
+            // Déplacement aériens
+            if (!m_Grounded && m_AirControl)
             {
-                // Add a vertical force to the player.
-                m_Grounded = false;
-                //m_Anim.SetBool("Ground", false);
-                m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+                move = (crouch ? move * m_CrouchSpeed : move);
 
+                m_Anim.SetFloat("Speed", Mathf.Abs(move));
+
+                m_Rigidbody2D.velocity = new Vector2(move * airSpeed, m_Rigidbody2D.velocity.y);
+
+                if (move > 0 && !m_FacingRight)
+                {
+                    Flip();
+                }
+                else if (move < 0 && m_FacingRight)
+                {
+                    Flip();
+                }
+            }
+
+            // Saut
+            if (m_Grounded && jump)
+            {
+                m_Grounded = false;
+                m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
                 m_Anim.Play("Jump");
             }
 
@@ -157,21 +131,6 @@ namespace UnityStandardAssets._2D
             sr.flipX = !sr.flipX;
         }
 
-        /*public void OnTriggerEnter2D(Collider2D other)
-        {
-            if (other.gameObject.CompareTag("Platform"))
-                 {
-                player.transform.parent = other.gameObject.transform;
-                }
-        }
-        public void OnTriggerExit2D(Collider2D other)
-        {
-            if (other.gameObject.CompareTag("Platform"))
-                 {
-                player.transform.parent = null;
-                }
-        }*/
-
 
         //Lorsque le joueur touche un ennemi
         public void Lose()
@@ -180,11 +139,9 @@ namespace UnityStandardAssets._2D
 
             if (health <= 0)
             {
-                //    Destroy(gameObject);
                 gameObject.SetActive(false);
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
-                //   StartCoroutine(WaitAndLose());
             }
         }
 
@@ -216,6 +173,12 @@ namespace UnityStandardAssets._2D
             {
                 transform.parent = null;
             }
+        }
+        public void Drugs()
+        {
+            m_MaxSpeed = m_MaxSpeed - 0.3f;
+            transform.localScale = new Vector3(transform.localScale.x + 0.2f, transform.localScale.y + 0.2f, transform.localScale.z);
+            print("test");
         }
     }
 }
