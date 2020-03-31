@@ -1305,8 +1305,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.4659204, y: 4.2102323}
-  m_SizeDelta: {x: 9.646, y: 2.603}
+  m_AnchoredPosition: {x: -6.4659204, y: 3.1}
+  m_SizeDelta: {x: 9.646, y: 4.824}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &999307500
 MonoBehaviour:
@@ -1321,7 +1321,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 0
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1001 &1004991682
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1596,8 +1596,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.96, y: 4.2102323}
-  m_SizeDelta: {x: 9.646, y: 2.603}
+  m_AnchoredPosition: {x: 5.96, y: 3.544}
+  m_SizeDelta: {x: 9.646, y: 3.936}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1066191053
 MonoBehaviour:
@@ -1778,7 +1778,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 5
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1 &1127037302
 GameObject:
   m_ObjectHideFlags: 0

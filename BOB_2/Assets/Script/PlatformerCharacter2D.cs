@@ -29,6 +29,9 @@ namespace UnityStandardAssets._2D
         
         public KeyCode jumpTouch;
 
+        AudioSource audiosource;
+        public AudioClip chewSound;
+
 
 
         private void Awake()
@@ -40,6 +43,7 @@ namespace UnityStandardAssets._2D
             m_Anim = GetComponent<Animator>();
             m_Rigidbody2D = GetComponent<Rigidbody2D>();
             sr = GetComponent<SpriteRenderer>();
+            audiosource = GetComponent<AudioSource>();
         }
 
         private void FixedUpdate()
@@ -176,9 +180,9 @@ namespace UnityStandardAssets._2D
         }
         public void Drugs()
         {
+            audiosource.PlayOneShot(chewSound, 0.5f);
             m_MaxSpeed = m_MaxSpeed - 0.3f;
             transform.localScale = new Vector3(transform.localScale.x + 0.2f, transform.localScale.y + 0.2f, transform.localScale.z);
-            print("test");
         }
     }
 }

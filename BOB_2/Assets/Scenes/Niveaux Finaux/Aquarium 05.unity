@@ -1101,8 +1101,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: <color="green"><size=60%><alpha=#44>Bad guys ? They're just fishes come
-    on...
+  m_text: Bad guys ? They're just fishes come on...
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -1112,8 +1111,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3019964166
+  m_fontColor: {r: 0.025951147, g: 1, b: 0, a: 0.7058824}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1131,8 +1130,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1260,8 +1259,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9882a803304668d45bd6535e10c12de8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTalk: 5
-  letterPause: 0.1
+  startTalk: 3.2
+  letterPause: 0.04
 --- !u!1001 &717285608
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1478,6 +1477,46 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125922251238, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.995
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125922251238, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.7886353
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125922251238, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.107974604
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125922251238, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.285412
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125661390987, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.984
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125661390987, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.10828164
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125661390987, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5.7092624
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389342125661390987, guid: 8107e38a39c12a9428d5527666c908bb,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2890671
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8107e38a39c12a9428d5527666c908bb, type: 3}
@@ -1701,7 +1740,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 0
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1001 &809874577
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2801,15 +2840,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 3.1
       objectReference: {fileID: 0}
-    - target: {fileID: 1483861868894798038, guid: 495fbf15ff9258b4e9e199202147d1e1,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1483861868894798043, guid: 495fbf15ff9258b4e9e199202147d1e1,
         type: 3}
       propertyPath: m_MaxSpeed
       value: 5.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1483861868894798038, guid: 495fbf15ff9258b4e9e199202147d1e1,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 495fbf15ff9258b4e9e199202147d1e1, type: 3}

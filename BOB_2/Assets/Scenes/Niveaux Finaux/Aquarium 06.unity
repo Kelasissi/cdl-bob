@@ -735,7 +735,7 @@ PrefabInstance:
     - target: {fileID: 7423742942893056477, guid: 2a90bf060052e89479fe33f6db5bb5b4,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7423742942893056477, guid: 2a90bf060052e89479fe33f6db5bb5b4,
         type: 3}
@@ -1078,7 +1078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 0
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1001 &449092171
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1294,7 +1294,7 @@ PrefabInstance:
     - target: {fileID: 9015452124237374392, guid: 440f17aeb2b466e4ab9baf34369e005b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 9015452124237374392, guid: 440f17aeb2b466e4ab9baf34369e005b,
         type: 3}
@@ -1638,7 +1638,7 @@ PrefabInstance:
     - target: {fileID: 1389342125878481366, guid: 8107e38a39c12a9428d5527666c908bb,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1389342125878481366, guid: 8107e38a39c12a9428d5527666c908bb,
         type: 3}
@@ -1707,7 +1707,7 @@ PrefabInstance:
     - target: {fileID: 4300920389208292364, guid: d52da8a757488bf4a8c6af3c45eb119c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4300920389208292364, guid: d52da8a757488bf4a8c6af3c45eb119c,
         type: 3}
@@ -2259,7 +2259,7 @@ PrefabInstance:
     - target: {fileID: 5300024971004450800, guid: e9489db513a43e046bb404454046b49f,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5300024971004450800, guid: e9489db513a43e046bb404454046b49f,
         type: 3}
@@ -2401,7 +2401,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: '<color="green"><size=60%><alpha=#44>Are you sure about this Soner ? '
+  m_text: 'Are you sure about this Sonny ? '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -2411,8 +2411,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3019964176
+  m_fontColor: {r: 0.06568074, g: 1, b: 0, a: 0.7058824}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2430,8 +2430,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2559,8 +2559,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9882a803304668d45bd6535e10c12de8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTalk: 5
-  letterPause: 0.1
+  startTalk: 3
+  letterPause: 0.04
 --- !u!1 &1716536586
 GameObject:
   m_ObjectHideFlags: 0
@@ -3271,7 +3271,7 @@ PrefabInstance:
     - target: {fileID: 7858235313559589152, guid: d1ec211e2f33d514ea050bcbc460fc4e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 7858235313559589152, guid: d1ec211e2f33d514ea050bcbc460fc4e,
         type: 3}
@@ -3345,7 +3345,7 @@ PrefabInstance:
     - target: {fileID: 9015452124237374392, guid: 440f17aeb2b466e4ab9baf34369e005b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 9015452124237374392, guid: 440f17aeb2b466e4ab9baf34369e005b,
         type: 3}

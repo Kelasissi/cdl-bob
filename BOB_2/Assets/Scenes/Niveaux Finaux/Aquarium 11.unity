@@ -651,8 +651,9 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: <color="green"><size=70%><alpha=#88>I didn't know we used them for testing
-    our treatments
+  m_text: 'I didn''t know we used them for testing our treatments...
+
+    Don''t you think it''s a bit unethical ?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -662,8 +663,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3019964187
+  m_fontColor: {r: 0.10734272, g: 1, b: 0, a: 0.7058824}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -681,8 +682,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 7
+  m_fontSizeBase: 7
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -722,12 +723,12 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 324183169}
-    characterCount: 53
+    characterCount: 95
     spriteCount: 0
-    spaceCount: 9
-    wordCount: 10
+    spaceCount: 17
+    wordCount: 17
     linkCount: 0
-    lineCount: 2
+    lineCount: 4
     pageCount: 1
     materialCount: 1
   m_isUsingLegacyAnimationComponent: 0
@@ -807,11 +808,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 324183167}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8ddb28bc899c0a4aaf1985c0eaf6166, type: 3}
+  m_Script: {fileID: 11500000, guid: 9882a803304668d45bd6535e10c12de8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 5
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1 &433116987
 GameObject:
   m_ObjectHideFlags: 0
@@ -1935,7 +1936,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1310539594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2057,8 +2058,91 @@ Transform:
   m_LocalScale: {x: 1.728, y: 1.728, z: 1.728}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1313199087
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8839589378889291190, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_Name
+      value: Music
+      objectReference: {fileID: 0}
+    - target: {fileID: 8839589378889291190, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.03712806
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0546615
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -13.107009
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4964958903116024471, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2056152507, guid: b7ec9cf648b732549a9d5271fbc536c0, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: a5ef2f39dd16f2b4a9ce215ad066382c, type: 3}
+    - target: {fileID: 3079290171175066907, guid: b7ec9cf648b732549a9d5271fbc536c0,
+        type: 3}
+      propertyPath: _audioClip2
+      value: 
+      objectReference: {fileID: 8300000, guid: 5551ffe5a99a7aa4891aeb715c19efe8, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b7ec9cf648b732549a9d5271fbc536c0, type: 3}
 --- !u!1 &1525131600
 GameObject:
   m_ObjectHideFlags: 0
@@ -2980,8 +3064,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: '<size=70%><alpha=#88>I''ve told you numerous times : These tests are purely
-    clinical. In fact, you''re just an intern, just do what we tell you.'
+  m_text: 'I''ve told you numerous times : These tests are purely clinical. In fact,
+    you''re just an intern, just do what we tell you.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -2991,8 +3075,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3036676095
+  m_fontColor: {r: 1, g: 1, b: 1, a: 0.7058824}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3010,8 +3094,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 7
+  m_fontSizeBase: 7
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3159,7 +3243,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 0
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1 &2008945148
 GameObject:
   m_ObjectHideFlags: 0

@@ -53,6 +53,18 @@ public class MusicClass : MonoBehaviour
             StopMusic();
             PlayMusic();
         }
+
+        if (scene.name == "Aquarium 16")
+        {
+            StopMusic();
+            PlayMusic();
+        }
+
+        if (scene.name == "Aquarium 19")
+        {
+            StopMusic();
+            PlayMusic();
+        }
     }
 
     
@@ -70,5 +82,6 @@ public void PlayMusic()
         _audioSource.Stop();
     }
 
+    
 
 }

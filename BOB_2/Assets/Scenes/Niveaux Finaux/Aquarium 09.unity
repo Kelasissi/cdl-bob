@@ -2420,8 +2420,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: <size=60%><alpha=#88>It's part of the program, we need them to feel at home
-    you know ?
+  m_text: It's part of the program, we need them to feel at home you know ?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -2431,8 +2430,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3271557119
+  m_fontColor: {r: 1, g: 1, b: 1, a: 0.7607843}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2450,8 +2449,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2580,7 +2579,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 5
-  letterPause: 0.1
+  letterPause: 0.04
 --- !u!1001 &1649650198
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2955,8 +2954,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: <color="green"><size=60%><alpha=#88>I'm just sick of lying everytime...
-    Do we really have to be this... <i>personal</i> ?
+  m_text: I'm just sick of lying everytime... Do we really have to be this... <i>personal</i>
+    ?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -2966,8 +2965,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3389062946
+  m_fontColor: {r: 0.13573885, g: 1, b: 0, a: 0.7921569}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2985,8 +2984,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3134,7 +3133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 0
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1 &2083992372
 GameObject:
   m_ObjectHideFlags: 0

@@ -1574,7 +1574,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.03, y: 4.73}
+  m_AnchoredPosition: {x: 3.93, y: 3.69}
   m_SizeDelta: {x: 6.484, y: 1.584}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &893503641
@@ -1597,8 +1597,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: <color="green"><size=60%><alpha=#44>I can't do it anymore... I didn't sign
-    for that !
+  m_text: I can't do it anymore... I didn't sign for that !
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -1608,8 +1607,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3238067993
+  m_fontColor: {r: 0.100138426, g: 1, b: 0, a: 0.75686276}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1627,8 +1626,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1753,11 +1752,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 893503639}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b8ddb28bc899c0a4aaf1985c0eaf6166, type: 3}
+  m_Script: {fileID: 11500000, guid: 9882a803304668d45bd6535e10c12de8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 5
-  letterPause: 0.1
+  letterPause: 0.04
 --- !u!1001 &948064079
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2837,8 +2836,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: <size=60%><alpha=#44>Cher, don't do this to me again... You know it's against
-    the rules
+  m_text: Cher, don't do this to me again... You know it's against the rules
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 719d69a7aad0305428cf8324a8a48078, type: 2}
   m_sharedMaterial: {fileID: 165069705639433965, guid: 719d69a7aad0305428cf8324a8a48078,
@@ -2848,8 +2846,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 3254779903
+  m_fontColor: {r: 1, g: 1, b: 1, a: 0.75686276}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2867,8 +2865,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 10
-  m_fontSizeBase: 10
+  m_fontSize: 6
+  m_fontSizeBase: 6
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2884,7 +2882,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 49
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2905,7 +2903,7 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: 0, w: -0.033587456}
   m_textInfo:
     textComponent: {fileID: 2062358036}
     characterCount: 66
@@ -3000,8 +2998,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.15, y: 4.93}
-  m_SizeDelta: {x: 6.484, y: 1.584}
+  m_AnchoredPosition: {x: -7.15, y: 4.678}
+  m_SizeDelta: {x: 6.484, y: 2.088}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2062358041
 MonoBehaviour:
@@ -3016,7 +3014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startTalk: 0
-  letterPause: 0.1
+  letterPause: 0.02
 --- !u!1 &2081632527
 GameObject:
   m_ObjectHideFlags: 0
